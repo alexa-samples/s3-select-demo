@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Query an S3 bucket using SQL from an Alexa Skill
 This is a basic AWS S3 Select example to fetch data from a JSON file with space facts using a subset of SQL.
 With S3 Select, you simply store your data on S3 and query using SQL statements to filter the contents of S3 objects, retrieving only the data that you need. By retrieving only a subset of the data, customers reduce the amount of data that Amazon S3 transfers, which reduces the cost and latency of retrieving this data.
